@@ -1,0 +1,12 @@
+
+
+THESE PRFORM BEST ON NEARLY SORTED DATA - ESPECIALLY INSERTION AND BUBBLE
+                    BEST CASE   /   AVG CASE    /   WORST CASE  /   SPACE COMPLEXITY
+bubble sort    /    On              On^2            On^2            O1
+insertion sort /    On              On^2            On^2            O1
+selection sort /    On^2            On^2            On^2            O1
+
+THESE ARE MORE FANCY ALGORITHMES 
+                    BEST CASE   /   AVG CASE    /   WORST CASE  /   SPACE COMPLEXITY
+merge sort    /     On*logn         On*logn         On*logn            On
+quick sort    /     
