@@ -8,5 +8,6 @@ selection sort /    On^2            On^2            On^2            O1
 
 THESE ARE MORE FANCY ALGORITHMES 
                     BEST CASE   /   AVG CASE    /   WORST CASE  /   SPACE COMPLEXITY
-merge sort    /     On*logn         On*logn         On*logn            On
-quick sort    /     
+merge sort    /     On*logn         On*logn         On*logn         On
+quick sort    /     On*logn         On*logn         On^2            On*logn
+radix sort    /     On*k            On*k            On*k            On+k

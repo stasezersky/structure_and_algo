@@ -1,3 +1,6 @@
+// worst case is when data already sorted(or reverse sorted) because each time we pivot n times
+// to avoid instead of picking the first item - pick the middle one
+
 function pivot(arr, start = 0, end = arr.length - 1) {
     const swap = (arr, i, j) => {
         [arr[i], arr[j]] = [arr[j], arr[i]]
