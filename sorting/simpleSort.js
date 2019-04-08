@@ -1,4 +1,4 @@
-// when using built in sort - it converting the elements into strings, then comparing their sequences of UTF-16 code units values 
+// when using built in sort - it converting the elements into strings, then comparing their sequences of UTF-8 code units values 
 // it also accepts optional function(a,b) : if function return < 0 -> a gets lower index than b an VV, if =0 ->  order unchanged
 
 const simpleSort = (arr) => {
